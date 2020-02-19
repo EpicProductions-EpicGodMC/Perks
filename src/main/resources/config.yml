@@ -1,0 +1,14 @@
+pluginPrefix: "&5&lPerks &7// &c"
+messages:
+  typeNotFound: "That perk could not be found!"
+  playerNotFound: "That player could not be found"
+  noPermission: "You do not have permission to run this command!"
+  error: "An unexpected error has occurred, please contact developer"
+  cmdNotRecognized: "SubCommand not found"
+  usage:
+    - '&5&n-----------------------'
+    - ''
+    - '&5&l/perk give <playerName> <perkType>'
+    - '&5&l/perk logs <playerName>'
+    - ''
+    - '&5&n-----------------------'

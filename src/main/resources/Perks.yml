@@ -1,0 +1,16 @@
+perks:
+  example:
+    displayName: "&4&lExamplePerk"
+    itemType: "BOOK"
+    damage: 0
+    glow: true
+    deny-node: "perk.diamond"
+    messages:
+      success: "&aYou just redeemed this lit perk %player%"
+      denied: "&cYou have already redeemed this perk!"
+    lore:
+      - '&1TestLine'
+      - '&2TestLine'
+      - '&3TestLine'
+    commands:
+      - 'give %PLAYER% diamond 1'

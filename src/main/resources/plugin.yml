@@ -1,0 +1,6 @@
+main: me.epicgodmc.perks.Perks
+version: 1.0.0
+name: Perks
+commands:
+  perk:
+    usage: /<command>
